@@ -5,6 +5,5 @@
         <project name="Spector0/android_kernel_lenovo_passion"         	          path="kernel/lenovo/passion" 		          	remote="github" revision="cm-14.1" />
         <project name="LineageOS/android_device_qcom_common"                   	  path="device/qcom/common" 		            	remote="github" revision="cm-14.1" />
         <project name="LineageOS/android_packages_resources_devicesettings"       path="packages/resources/devicesettings"      	remote="github" revision="cm-14.1" />
-        <project name="LineageOS/android_device_qcom_sepolicy"                    path="device/qcom/sepolicy" 		            	remote="github" revision="cm-14.1" />
         <project name="LineageOS/android_external_ant-wireless_antradio-library"  path="external/ant-wireless/antradio-library"         remote="github" revision="cm-14.1" />
 </manifest>
